@@ -1,3 +1,3 @@
 # Password Reset Using SendGrid
 
-Credit: [Sahat Yalkabov](http://sahatyalkabov.com/how-to-implement-password-reset-in-nodejs/)
+A Node.js backend web application with Password Reset SendGrid feature
