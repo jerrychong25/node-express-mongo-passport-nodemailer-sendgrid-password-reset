@@ -1,6 +1,6 @@
 {
-  "name": "express-reset-password",
-  "version": "0.0.1",
+  "name": "node-express-mongo-passport-nodemailer-sendgrid-password-reset",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "start": "node app.js"
