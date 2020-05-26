@@ -1,4 +1,8 @@
-# Node.js Back End Web Application with REST API (Express.js), User Authentication (Passport.js), Password Reset (SendGrid) and MongoDB Data Storage (Mongoose.js)
+# Node.js Back End Web Application with REST API, User Authentication, Password Reset and MongoDB
+
+[![GitHub release](https://img.shields.io/github/release/jerrychong25/node-express-mongo-passport-nodemailer-sendgrid-password-reset.svg)](https://gitHub.com/jerrychong25/node-express-mongo-passport-nodemailer-sendgrid-password-reset/releases/)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/jerrychong25/node-express-mongo-passport-nodemailer-sendgrid-password-reset/graphs/commit-activity)
+[![HitCount](http://hits.dwyl.com/jerrychong25/node-express-mongo-passport-nodemailer-sendgrid-password-reset.svg)](http://hits.dwyl.com/jerrychong25/node-express-mongo-passport-nodemailer-sendgrid-password-reset)
 
 ## Getting Started
 
@@ -18,7 +22,7 @@ Hosted on local host.
 
 ## Authors
 
-**Chong Hon Fong** - [jerrychong25](https://github.com/jerrychong25)
+**Jerry Chong** - [jerrychong25](https://github.com/jerrychong25)
 
 ## License
 
