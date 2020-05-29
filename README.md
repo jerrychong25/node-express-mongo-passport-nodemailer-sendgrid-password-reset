@@ -6,7 +6,7 @@
 
 ## Getting Started
 
-This is a Node.js back end web application, which features REST API interface via Express.js, user authentication via Passport.js, password reset via SendGrid, and MongoDB data storage via Mongoose.js.
+This is a Node.js back end web application, which features REST API interface via Express.js, user authentication via Passport.js, password reset via SendGrid, and MongoDB via Mongoose.js.
 
 ## Deployment
 
