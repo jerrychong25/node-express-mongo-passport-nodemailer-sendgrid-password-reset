@@ -10,7 +10,7 @@
     "bcrypt-nodejs": "0.0.3",
     "cookie-parser": "~1.4.7",
     "debug": "~2.6.9",
-    "express": "~4.21.1",
+    "express": "~4.21.2",
     "express-flash": "0.0.2",
     "express-session": "^1.18.1",
     "http-errors": "~1.6.3",
