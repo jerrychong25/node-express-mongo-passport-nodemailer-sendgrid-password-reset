@@ -17,7 +17,7 @@
     "jade": "~1.11.0",
     "mongoose": "^8.9.5",
     "morgan": "~1.9.1",
-    "nodemailer": "^6.9.9",
+    "nodemailer": "^7.0.7",
     "nodemailer-sendgrid-transport": "^0.2.0",
     "passport": "^0.6.0",
     "passport-local": "^1.0.0",
